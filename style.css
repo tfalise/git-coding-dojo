@@ -16,3 +16,8 @@
     margin-bottom: .25rem;
 }
 
+p.new {
+    font-weight: bold;
+    color: blue;
+}
+
